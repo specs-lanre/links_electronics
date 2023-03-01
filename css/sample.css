@@ -1,0 +1,8 @@
+.prent {border-width:2px;
+border-color:blue;
+border-style:solid;}
+
+.chld {border-width:5px;padding:70px;
+margin:70px;
+border-color:brown;
+border-style:solid;}
